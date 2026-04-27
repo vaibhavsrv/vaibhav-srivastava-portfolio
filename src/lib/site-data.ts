@@ -33,7 +33,8 @@ export const PROJECTS = [
       "Unified patient health portal with multi-role JWT auth (patients, doctors, pharmacists), normalized PostgreSQL schema and role-specific React dashboards.",
     tags: ["React", "Node.js", "PostgreSQL", "JWT"],
     accent: "from-primary/40 to-accent/20",
-    href: "https://github.com/vaibhavsrv",
+    live: "https://cura-your-caring-companion.vercel.app/",
+    github: "https://github.com/vaibhavsrv/cura", // update if different
   },
   {
     slug: "authflow",
@@ -55,7 +56,8 @@ export const PROJECTS = [
       "Fully responsive single-page developer portfolio with dark/light theme toggle, reusable component architecture, and CSS-driven transitions.",
     tags: ["React", "JavaScript", "CSS"],
     accent: "from-primary/30 to-primary-glow/20",
-    href: "https://github.com/vaibhavsrv",
+    live: "https://devfolio-three-mu.vercel.app/",
+    github: "https://github.com/vaibhavsrv",
   },
   {
     slug: "ai-code-review",
